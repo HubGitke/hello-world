@@ -7,3 +7,4 @@ Es gibt noch ein paar wirklich interessante Dinge in Bezug auf Git und GitHub zu
 * wechseln zwischen Kontexten
 * bla bla bla
 ---
+Ergänzugnszeile
