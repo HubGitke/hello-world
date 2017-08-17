@@ -1,4 +1,4 @@
-# hello-world (Hallo schöne Welt!)
+# Elemente
 Hallo schöne Welt!
 
 + Euros und Dollars
@@ -6,15 +6,18 @@ Hallo schöne Welt!
 + Äpfel und Birnen
 
 ---
-## Erste Schritte
+## Erste Schritte und noch ein paar mehr
 Es gibt noch ein paar wirklich interessante Dinge in Bezug auf Git und GitHub zu lernen:
 * verzweigen
 * zusammenführen
 * wechseln zwischen Kontexten
 * bla bla bla
+* blub blub blub
 ---
 Ergänzugnszeile
 
-## Lustige Blindtexte
+## Lustige Blindtexte :)
 
-Lorem Ipsum Trallala
+* Lorem Ipsum Trallala
+* Hallo ich bin ein Blindtext. Ich weis eigentlich können wir nicht sprechen aber so ist das nunmal
+
